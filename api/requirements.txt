@@ -1,5 +1,3 @@
-fastapi
-uvicorn
-torch
+gradio>=4.0
 transformers
-fastapi[all]
+torch
