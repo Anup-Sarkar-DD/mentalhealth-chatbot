@@ -45,16 +45,12 @@ uvicorn api.main:app --reload
 
 <hr />
 
-<!-- <h2>Links</h2>
+<h2>Links</h2>
 <ul>
   <li><a href="https://github.com/Anup-Sarkar-DD/AI-Mental-health-chatbot" target="_blank">GitHub Repository</a></li>
   <li><a href="https://huggingface.co/spaces/AnupSarkarDD/mental-health-chatbot">Hugging Face Repo</a></li>   
   <li><a href="https://anup-sarkar-dd.github.io/AnupTheAIMLVisionary.github.io/" target="_blank">My Portfolio</a></li>
 </ul>
-
-<hr />
-
-<p>Feel free to open issues, fork or contribute. Reach out for collaboration!</p> -->
 
 </body>
 </html>
