@@ -11,6 +11,7 @@
   <li>FastAPI backend serving the chatbot model</li>
   <li>Interactive web-based chat interface using HTML, CSS, and JavaScript</li>
   <li>Lightweight CPU optimized inference for wider accessibility</li>
+  <li>Created Live Demo Dashboard link using Hugging face hub and space</li>
 </ul>
 
 <hr />
@@ -32,11 +33,11 @@
 <span class="badge">FastAPI</span>
 <span class="badge">JavaScript</span>
 <span class="badge">HTML/CSS</span>
-
+<span class="badge">Hugging Face Space</span>
 <hr />
 
 <h2>Usage</h2>
-<p>Clone the repo and run the backend service to start the chatbot. Access the web frontend to interact with the AI mental health assistant.</p>
+<p>Clone the repo and run the backend service to start the chatbot. Access the web via hugging face .</p>
 <pre><code>git clone https://github.com/Anup-Sarkar-DD/AI-Mental-health-chatbot.git
 cd AI-Mental-health-chatbot
 uvicorn api.main:app --reload
